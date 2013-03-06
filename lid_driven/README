@@ -1,0 +1,7 @@
+A simple lid-driven model.
+
+This program is used for the numerical simulation of lid-driven cavity flow
+The fluid is assumed to be incompressible.
+
+Reference the book <Numerical Simulation in Fluid Dynamics: a Practical Introduction> by Michael Griebel et.al. 
+

@@ -1,0 +1,17 @@
+imax,jmax      :   128   128
+itermax        :   100
+wW,wE,wN,wS    :2222
+delt           :    0.0200
+xlength,ylength:  1.00  1.00
+Re             :     1000.
+tau            :0.5000
+gammar         :0.9000
+omg            :1.7000
+eps            : 0.0010000
+UI,VI,PI       :    0.0000    0.0000    0.0000
+problem        : 1
+normtype       :1
+gx,gy          :    0.0000    0.0000
+init_UVP_type  :1
+delt_output    :  1.00
+
