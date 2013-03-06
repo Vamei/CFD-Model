@@ -1,4 +1,6 @@
 CFD-Model
 =========
 
-Simple CFD models realized with Fortran, C and Python
+Simple CFD models, for demo and recreational purpose.
+Originally written in Fortran.
+Mixing with Python.
